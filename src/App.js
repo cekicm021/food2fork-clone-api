@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 84d01e0... first commit
 =======
 >>>>>>> 84d01e0... first commit
 import React, { Component } from "react";
@@ -7,6 +10,7 @@ import "./App.css";
 import RecipeList from "./components/RecipeList";
 import RecipeDetails from "./components/RecipeDetails";
 import { recipes } from "./tempList";
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 class App extends Component {
@@ -107,6 +111,8 @@ import logo from './logo.svg';
 import './App.css';
 =======
 >>>>>>> 84d01e0... first commit
+=======
+>>>>>>> 84d01e0... first commit
 
 class App extends Component {
 	constructor(props) {
@@ -200,8 +206,12 @@ class App extends Component {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 export default App;
 >>>>>>> 983db33... Initial commit from Create React App
+=======
+export default App;
+>>>>>>> 84d01e0... first commit
 =======
 export default App;
 >>>>>>> 84d01e0... first commit
