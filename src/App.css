@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .body{
   font-family: 'Open Sans', sans-serif;
 }
@@ -40,3 +41,12 @@
   }
 }
 >>>>>>> 983db33... Initial commit from Create React App
+=======
+.body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.text-slanted{
+  font-family: 'Courgette', cursive;
+}
+>>>>>>> 84d01e0... first commit
